@@ -12,7 +12,7 @@ async def start_(client: Client, message: Message):
         f"""<b>👋🏻 Halo Kawan {message.from_user.first_name}!</b>
 Gua adalah Bot Music Voice Call Group di Telegram!
 Gua Hadir Untuk Menemani Kegabutan Lu! Lu Bisa Menggunakan Gua Dengan Cara Yang Ada Dibawah. Jangan Malas Untuk Membaca Ya Pantek!
-JANGAN LUPA LIHAT BIO DAN DESKRIPSI BOTNYA!
+JANGAN LUPA LIHAT BIO DAN DESKRIPSI BOTNYA! SUPPORT CHANNEL @storyangkasa
 
 Cara Menggunakan Bot Ini Mudah, Cukup Undang Bot Ini Dan Assistantnya Kegrup Lu Aja Lalu Berikan Akses Admun.
 
