@@ -1,5 +1,3 @@
-Isi docker ganti ini
-
 FROM debian:latest
 
 RUN apt update && apt upgrade -y
