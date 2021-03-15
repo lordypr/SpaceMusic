@@ -12,7 +12,7 @@ async def start_(client: Client, message: Message):
         f"""<b>👋🏻 Halo Kawan {message.from_user.first_name}!</b>
 Gua adalah Bot Music Voice Call Group di Telegram!
 Gua Hadir Untuk Menemani Kegabutan Lu! Lu Bisa Menggunakan Gua Dengan Cara Yang Ada Dibawah. Jangan Malas Untuk Membaca Ya Pantek!
-JANGAN LUPA LIHAT BIO DAN DESKRIPSI BOTNYA! SUPPORT CHANNEL @storyangkasa
+JANGAN LUPA LIHAT BIO DAN DESKRIPSI BOTNYA!
 
 Cara Menggunakan Bot Ini Mudah, Cukup Undang Bot Ini Dan Assistantnya Kegrup Lu Aja Lalu Berikan Akses Admun.
 
@@ -21,7 +21,13 @@ TEKAN TOMBOL DIBAWAH UNTUK TUTORIAL! JANGAN MALAS MEMBACA....""",
             [
                 [
                     InlineKeyboardButton(
-                        "CARA MENGGUNAKANNYA", url="https://telegra.ph/ʜɪʟᴇʀ-ʙʀ-03-13-2"
+                        "CARA MENGGUNAKANNYA", url="https://telegra.ph/ʜɪʟᴇʀ-ʙʀ-03-15"
+                   ),
+                    InlineKeyboardButton(
+                        "SUPPORT CHANNEL", url="https://t.me/storyangkasa"
+                   ),
+                    InlineKeyboardButton(
+                        "FOLLOW INSTAGRAM", url="https://instagram.com/whyal_:same"
                     )
                 ]
             ]
