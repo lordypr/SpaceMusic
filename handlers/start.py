@@ -27,7 +27,7 @@ TEKAN TOMBOL DIBAWAH UNTUK TUTORIAL! JANGAN MALAS MEMBACA....""",
                         "SUPPORT CHANNEL", url="https://t.me/storyangkasa"
                    ),
                     InlineKeyboardButton(
-                        "FOLLOW INSTAGRAM", url="https://instagram.com/whyal_:same"
+                        "FOLLOW INSTAGRAM", url="https://instagram.com/whyal_"
                     )
                 ]
             ]
