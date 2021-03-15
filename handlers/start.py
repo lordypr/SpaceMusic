@@ -14,7 +14,7 @@ Gua adalah Bot Music Voice Call Group di Telegram!
 Gua Hadir Untuk Menemani Kegabutan Lu! Lu Bisa Menggunakan Gua Dengan Cara Yang Ada Dibawah. Jangan Malas Untuk Membaca Ya Pantek!
 JANGAN LUPA LIHAT BIO DAN DESKRIPSI BOTNYA!
 
-Cara Menggunakan Bot Ini Mudah, Cukup Undang Bot Ini Dan Assistantnya Kegrup Lu Aja Lalu Berikan Akses Admun.
+Cara Menggunakan Bot Ini Mudah, Cukup Undang Bot Ini Dan Assistantnya Kegrup Lu Aja Lalu Berikan Akses Admin.
 
 TEKAN TOMBOL DIBAWAH UNTUK TUTORIAL! JANGAN MALAS MEMBACA....""",
         reply_markup=InlineKeyboardMarkup(
@@ -25,7 +25,7 @@ TEKAN TOMBOL DIBAWAH UNTUK TUTORIAL! JANGAN MALAS MEMBACA....""",
                    ),
                     InlineKeyboardButton(
                         "SUPPORT CHANNEL", url="https://t.me/storyangkasa
-                    )
+                   )
                 ]
             ]
         )
