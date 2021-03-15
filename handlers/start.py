@@ -11,6 +11,7 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Halo Kawan {message.from_user.first_name}!</b>
 Gua adalah Bot Music Voice Call Group di Telegram!
+
 Gua Hadir Untuk Menemani Kegabutan Lu! Lu Bisa Menggunakan Gua Dengan Cara Yang Ada Dibawah. Jangan Malas Untuk Membaca Ya Pantek!
 JANGAN LUPA LIHAT BIO DAN DESKRIPSI BOTNYA!
 
@@ -20,11 +21,11 @@ TEKAN TOMBOL DIBAWAH UNTUK TUTORIAL! JANGAN MALAS MEMBACA....""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
-                        "CARA MENGGUNAKANNYA", url="https://telegra.ph/ʜɪʟᴇʀ-ʙʀ-03-15"
+                    InlineKeyboardButton(https://telegra.ph/Tutorial-03-15-2"
+                        "CARA MENGGUNAKANNYA", "
                    ),
                     InlineKeyboardButton(
-                        "SUPPORT CHANNEL", url="https://t.me/storyangkasa"
+                        "GROUP 💬 ", url="https://t.me/urmoodzone"
                    )
                 ]
             ]
